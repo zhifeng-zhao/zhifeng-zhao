@@ -11,5 +11,5 @@
 
 
 
-![marionxue's github stats](https://github-readme-stats.vercel.app/api?username=zhifeng-zhao&theme=radical)
+![marionxue's github stats](https://github-readme-stats.vercel.app/api?username=zhifeng-zhao&theme=radical&show_icons=true)
 
